@@ -1,7 +1,7 @@
 vscode-plugin
 
 token
-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
+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
 
 gist
 f0836e10daeee5abf1aa433685e09e01
